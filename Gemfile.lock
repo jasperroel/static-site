@@ -61,6 +61,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll
   jekyll-theme-cayman (~> 0.0.3)
   minima
   octopress (~> 3.0)
