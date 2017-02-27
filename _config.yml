@@ -14,3 +14,5 @@ titlecase: true
 post_template: post
 page_template: page
 draft_template: draft
+
+theme: jekyll-theme-cayman
