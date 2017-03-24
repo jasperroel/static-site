@@ -11,6 +11,8 @@ I love Java (and Android), but appreciate any language that will get the job don
 
 Also have a passion for security and debugging, and have worked a lot in the web world. Love the back-end and invisible gears of the things that make our online world turn.
 
+I'm also super awesome human being! True!
+
 ## Contact
 E-mail: [info@jasperroel.nl] [email]
 
